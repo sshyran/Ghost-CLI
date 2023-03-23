@@ -93,7 +93,7 @@
     "coveralls": "3.0.4",
     "eslint": "5.16.0",
     "eslint-plugin-ghost": "0.4.0",
-    "has-ansi": "3.0.0",
+    "has-ansi": "5.0.1",
     "mocha": "6.1.4",
     "nyc": "14.1.1",
     "proxyquire": "2.1.0",
