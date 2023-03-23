@@ -73,7 +73,7 @@
     "package-json": "6.4.0",
     "path-is-root": "0.1.0",
     "portfinder": "1.0.20",
-    "prettyjson": "1.2.1",
+    "prettyjson": "1.2.5",
     "read-last-lines": "1.7.1",
     "replace-in-file": "4.1.1",
     "rxjs": "6.5.2",
